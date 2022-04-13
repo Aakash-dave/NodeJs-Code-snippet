@@ -1,2 +1,2 @@
 # NodeJs-Code-snippet
-File system related stuff for challenge
+challenge faced for extracting 650+ images from excel with correct names
